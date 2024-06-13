@@ -1,0 +1,25 @@
+https://www.rareskills.io/post/defi-liquidations-collateral
+
+**Loans in DeFi must be overcollateralized. The ratio of the loan to collateral value that the protocol will accept to initiate a loan is the collateralization ratio. The liquidation ratio is the ratio of values at which the loan will be liquidated. Smart contracts cannot initiate transactions themselves, so they rely on liquidators to buy the collateral at a discount. Loans cannot be too small relative to gas prices or too high relative to available liquidity, otherwise there will be issues liquidating bad debt.**
+
+--------------------------------------------------------------------------------
+https://dacian.me/lending-borrowing-defi-attacks
+--------------------------------------------------------------------------------
+https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols
+--------------------------------------------------------------------------------
+https://mixbytes.io/blog/modern-defi-lending-protocols-how-its-made-euler-v2
+--------------------------------------------------------------------------------
+https://mixbytes.io/blog/dealing-with-utilization-in-lending-protocols
+--------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=Dz2FMlKcwHg&t=1420s
+--------------------------------------------------------------------------------
+https://www.okx.com/learn/aave-compound-defi-lending
+------------------------------------------------------------------------------
+https://www.rareskills.io/compound-v3-book
+------------------------------------------------------------------------------
+https://medium.com/@kinaumov/back-to-the-basics-compound-aave-436a1887ad94
+------------------------------------------------------------------------------
+https://compound.finance/markets
+------------------------------------------------------------------------------
+https://uploads-ssl.webflow.com/5ad71ffeb79acc67c8bcdaba/5ad8d1193a40977462982470_scalable-reward-distribution-paper.pdf
+	
